@@ -1,7 +1,7 @@
 
 # QUCS Installation on Linux Ubuntu Using Wine
 
-This guide provides step-by-step instructions on how to install and run **QUCS** (Quite Universal Circuit Simulator) on Linux using **Wine**. Wine allows running Windows applications on Linux-based systems.
+This guide provides step-by-step instructions on how to install and run **QUCS** (Quite Universal Circuit Simulator) on Linux Ubuntu 22.0 using **Wine**. Wine allows running Windows applications on Linux-based systems.
 
 ---
 
